@@ -1,0 +1,12 @@
+# What actually is not supported by the Debian Installer
+ifenslave
+
+# Helpful for debugging
+tcpdump
+ethtool
+
+# Dependencies as present in Debian 11 Bullseye, might need updating
+# for other releases. Only dependencies not automatically installed by
+# the netinst installer need to be listed.
+libpcap0.8
+libmnl0

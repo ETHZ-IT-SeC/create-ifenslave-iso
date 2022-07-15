@@ -1,0 +1,7 @@
+
+# Bonding
+auto bond0
+iface bond0 inet dhcp
+        bond-mode 802.3ad
+        bond-xmit_hash_policy layer2+3
+        slaves eth0 eth1

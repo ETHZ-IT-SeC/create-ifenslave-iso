@@ -1,0 +1,18 @@
+# Example packages.local file as used by Axel
+
+# My fingers have old school muscle memory: ifc<Tab> ;-)
+net-tools
+
+# I'm an Emacs guy.
+zile
+libgc1
+
+# Have a look at who wrote this stuff and who maintains aptitude, so
+# you know why this is in here. ;-)
+aptitude
+aptitude-common
+libboost-iostreams1.74.0
+libcwidget4
+libsigc++-2.0-0v5
+libxapian30
+libsqlite3-0
