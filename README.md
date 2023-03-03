@@ -19,8 +19,8 @@ low-level networking as well as the possibility to add additional
 packages for your own convenience.
 
 
-Prerequisits
-------------
+Prerequisites
+-------------
 
 * Debian Installer images, either the [free version without non-free
   firmware
