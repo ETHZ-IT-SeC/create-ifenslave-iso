@@ -82,7 +82,7 @@ that at installation time).
 Run these commands with root privileges:
 
 ```sh
-mount /media/cdrom
+mount -o ro /media/cdrom
 dpkg -i /media/cdrom/*.deb
 ```
 
