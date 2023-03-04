@@ -10,3 +10,4 @@ ethtool
 # the netinst installer need to be listed.
 libpcap0.8
 libmnl0
+libdbus-1-3
